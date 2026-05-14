@@ -56,6 +56,9 @@ body{
     background-color: var(--color-back)!important;
 }
 /*footer*/
+.carousel-caption p{
+    color: white;
+}
 footer p{
     padding: 10px 5px;
     background-color: var(--color1);
@@ -67,7 +70,6 @@ footer p{
 }
 p{
     font-weight: bold!important; 
-    color: #333 !important;
 }
 /*nav*/
 .bg-dark{
