@@ -39,6 +39,12 @@
 }
 /*h1 e h2*/
 h1{
+    padding: 5px;
+    margin: 20px auto;
+    border-radius: 10px;
+    width: fit-content!important;
+    text-align: center!important;
+    background-color: var(--color-back2);
     color: var(--color1);
 }
 .titulo-secao{
@@ -57,10 +63,11 @@ footer p{
     border-radius: 15px;
     text-align: center;
     margin: 20px auto;
+    color: white!important;
 }
 p{
     font-weight: bold!important; 
-    color: white !important;
+    color: #333 !important;
 }
 /*nav*/
 .bg-dark{
